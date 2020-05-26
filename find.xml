@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.jsp</mask>
-    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
@@ -17,5 +16,6 @@
     <mask>*.xml</mask>
     <mask>*.java&quot;</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
