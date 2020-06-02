@@ -5,6 +5,7 @@
       <mapping pattern="campaign_DSM-1556.json" type="JSON" />
       <mapping pattern="AiModel.json" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="notificationEnableResponse" type="PLAIN_TEXT" />
       <mapping pattern="afas" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
