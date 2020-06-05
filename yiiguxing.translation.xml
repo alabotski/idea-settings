@@ -1,14 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="occurrence" />
       <item value="REQUEST" />
       <item value="springframework" />
       <item value="documentation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="8" />
       </map>
     </option>
   </component>
