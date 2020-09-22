@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -17,7 +17,7 @@
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.gradle</mask>
-    <mask>*.tsx</mask>
     <mask>*.java</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
