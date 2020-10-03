@@ -15,8 +15,8 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
-    <mask>*.tsx</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
