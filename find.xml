@@ -18,5 +18,6 @@
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.tsx</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
