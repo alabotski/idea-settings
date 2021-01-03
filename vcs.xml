@@ -54,9 +54,13 @@
           <option name="url" value="git@github.com:alabotski/alabotski.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alabotski/CountWords.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/gismu" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
