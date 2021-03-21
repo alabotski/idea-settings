@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="occurrence" />
+      <item value="REQUEST" />
+      <item value="springframework" />
+      <item value="documentation" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="8" />
+        <entry key="RUSSIAN" value="8" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="targetLanguageSelection" value="LAST" />
+  </component>
+</application>
