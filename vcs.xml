@@ -82,6 +82,10 @@
           <option name="url" value="git@gitlab.akb-it.ru:GISMU2.0/mac/monitoring-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.akb-it.ru:GISMU2.0/mu-mk/bp-mcd-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/Source/gismu" />
