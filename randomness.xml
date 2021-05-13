@@ -1,0 +1,21 @@
+<application>
+  <component name="StringSettings">
+    <option name="schemes">
+      <list>
+        <StringScheme>
+          <option name="maxLength" value="16" />
+          <option name="serializedActiveSymbolSets">
+            <map>
+              <entry key="Alphabet (a, b, c, ...)" value="abcdefghijklmnopqrstuvwxyz" />
+              <entry key="Digits (0, 1, 2, ...)" value="0123456789" />
+              <entry key="Minus (-)" value="-" />
+              <entry key="Underscore (_)" value="_" />
+              <entry key="Special (!, @, #, $, %, ^, &amp;, *)" value="!@#$%^&amp;*" />
+              <entry key="Brackets ((, ), [, ], {, }, &lt;, &gt;)" value="()[]{}&lt;&gt;" />
+            </map>
+          </option>
+        </StringScheme>
+      </list>
+    </option>
+  </component>
+</application>
