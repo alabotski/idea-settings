@@ -296,6 +296,20 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="JSON render" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.Object" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.Object" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" expression="new ObjectMapper().setSerializationInclusion(JsonInclude.Include.NON_NULL)&#10;        .writerWithDefaultPrettyPrinter()&#10;        .writeValueAsString(this);" language="JAVA" custom="com.fasterxml.jackson.annotation.JsonInclude,com.fasterxml.jackson.databind.ObjectMapper" mode="CODE_FRAGMENT" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
