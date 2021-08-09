@@ -3,5 +3,6 @@
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
   </component>
 </application>
