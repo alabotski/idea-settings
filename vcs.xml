@@ -114,9 +114,13 @@
           <option name="url" value="git@gitlab.akb-it.ru:GISMU2.0/rfg/bp-rfg-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.qulix.com/aval/biz.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Source/gismu" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Source/aval" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
