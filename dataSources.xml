@@ -1,21 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="DEV - db02@172.24.14.108" uuid="95aa1b8a-9555-4495-8aa9-47897820effb">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <schema-control>AUTOMATIC</schema-control>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://172.24.14.108:5432/db02</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="UAT - db02@172.25.16.195" uuid="e8c2d525-7043-49c9-a3c8-8c0e05160bd1">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <schema-control>AUTOMATIC</schema-control>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://172.25.16.195:5432/db02</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
     <data-source source="LOCAL" name="Limit - Dev (QULIX)" uuid="22fc1f24-bb83-4be1-a4d5-3afeb236cba8">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
