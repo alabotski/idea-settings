@@ -122,9 +122,13 @@
           <option name="url" value="git@github.com:tirmizee/SpringBoot-JPA-DynamicQuery-Specification.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:alabotski/demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/Source" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
