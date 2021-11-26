@@ -6,6 +6,9 @@
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
     </driver>
+    <driver id="oracle.19">
+      <artifact id="Oracle" name="Oracle" use="true" version="21.1.0.0" />
+    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
