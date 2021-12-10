@@ -299,8 +299,11 @@
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundNodeRenderer">
-        <option name="NAME" value="JSON ObjectMapper render" />
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="org.hibernate.collection.internal.PersistentSet" />
+      </Renderer>
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="NAME" value="JSON ObjectMapper render" />
         <option name="QUALIFIED_NAME" value="java.lang.Object" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="java.lang.Object" />
@@ -310,7 +313,6 @@
       </Renderer>
       <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="JSON Gson render" />
-        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.Object" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="java.lang.Object" />
