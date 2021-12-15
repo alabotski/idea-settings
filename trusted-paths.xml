@@ -1,0 +1,13 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Workspace/gismu" />
+        <option value="$USER_HOME$/Workspace/Source/gismu" />
+        <option value="$USER_HOME$/Workspace/Source/aval/biz" />
+        <option value="$USER_HOME$/Workspace/Source/aval/payments-lm" />
+        <option value="$USER_HOME$/Workspace/Source" />
+      </list>
+    </option>
+  </component>
+</application>

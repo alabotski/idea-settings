@@ -1,0 +1,270 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CheckStyle-IDEA">
+        <option name="configuration">
+          <map>
+            <entry key="checkstyle-version" value="8.13" />
+            <entry key="copy-libs" value="false" />
+            <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+            <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+            <entry key="scan-before-checkin" value="false" />
+            <entry key="scanscope" value="JavaOnly" />
+            <entry key="suppress-errors" value="false" />
+          </map>
+        </option>
+      </component>
+      <component name="CheckStyle-IDEA-workspace">
+        <option name="configuration">
+          <map>
+            <entry key="last-active-plugin-version" value="5.23.0" />
+          </map>
+        </option>
+      </component>
+      <component name="CompilerConfiguration">
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="true" />
+        </annotationProcessing>
+      </component>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Downloads/aaa" value="PREVIEW" />
+            <entry key="$USER_HOME$/Downloads/test" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/VaadinDemo" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/app" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/backoffice" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/files" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/imlab/pks-backend" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/imlab/pks-backend-new" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/karibu10-helloworld-application" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/saleshero/saleshero-enterprise-ui" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/saleshero/saleshero-flow" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/saleshero/saleshero-webapp" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/saleshero/vaadin-with-shiro-master" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/synesis/backend" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/track4u/itrack" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/track4u/reports_collector" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/track4u/track4u" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/track4u/track4u-account-be" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/track4u/track4u-fe" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/vaadin-demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/vaadin/examples" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/vaadin/gradle-vaadin-flow" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/verizon-auth-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/verizon-ds" value="PREVIEW" />
+            <entry key="$USER_HOME$/Workspace/zipCodeApp" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/qartal" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/qurtal-portal" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/saleshero/saleshero-flow" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/spring-boot-gwt" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/spring-boot-sample-websocket" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/spring-domino-gmd" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/vaadin/Vaadin14Demo" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/verizon-auth-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/verizon/verizon-auth-server" value="PREVIEW" />
+            <entry key="$USER_HOME$/workspace/verizon/verizon-ds" value="PREVIEW" />
+            <entry key="/media/lesharb/Data/Workspace/github/mongo-utils" value="PREVIEW" />
+            <entry key="/media/lesharb/Data/Workspace/verizon-portal-frontend" value="PREVIEW" />
+            <entry key="/media/lesharb/Data/Workspace/verizon/verizon-dsms-server" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="$USER_HOME$/.sdkman/candidates/maven/3.6.3" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="importAutomatically" value="true" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="#JAVA_HOME" />
+      </component>
+      <component name="NodePackageJsonFileManager">
+        <packageJsonPaths />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>CSS</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Gradle</id>
+              </State>
+              <State>
+                <id>InternationalizationLintAndroid</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Kotlin</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>PerformanceLintAndroid</id>
+              </State>
+              <State>
+                <id>Probable bugsCSS</id>
+              </State>
+              <State>
+                <id>Probable bugsGradle</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+              <State>
+                <id>SecurityLintAndroid</id>
+              </State>
+              <State>
+                <id>Serialization issuesJava</id>
+              </State>
+              <State>
+                <id>XPath</id>
+              </State>
+              <State>
+                <id>XSLT</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SerializableHasSerialVersionUIDField</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_12" project-jdk-name="12" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/workspace/verizon" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="project.structure.last.edited" value="Project" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\labotski\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>groovy-2.5.1</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>14</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.20362622" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
