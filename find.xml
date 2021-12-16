@@ -5,7 +5,6 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.stg</mask>
@@ -16,7 +15,6 @@
     <mask>*.yaml</mask>
     <mask>*.xsd</mask>
     <mask>*.wsdl</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*.css</mask>
@@ -25,5 +23,6 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
