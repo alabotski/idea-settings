@@ -16,13 +16,13 @@
     <mask>*.xsd</mask>
     <mask>*.wsdl</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
+    <mask>*.gradle</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
