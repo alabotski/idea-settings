@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Limit - Dev (QULIX)" uuid="22fc1f24-bb83-4be1-a4d5-3afeb236cba8">
+    <data-source source="LOCAL" name="Limit PostgreSql - Qulix" uuid="22fc1f24-bb83-4be1-a4d5-3afeb236cba8">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
