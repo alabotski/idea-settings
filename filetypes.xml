@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="DealBoardApplication" type="AUTO_DETECTED" />
       <mapping pattern="ChangeType" type="AUTO_DETECTED" />
       <mapping pattern="IdentityDocumentType" type="AUTO_DETECTED" />
       <mapping pattern="Main" type="JAVA" />
