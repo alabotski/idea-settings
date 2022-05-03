@@ -162,6 +162,10 @@
           <option name="url" value="ssh://git@git.jetbrains.space/rednavis-llc/deal-board/backend-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:rednavis/dealboard-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/deal-board" />
