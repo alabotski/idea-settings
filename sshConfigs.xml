@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="bastion.k8s.dev.elinvar.tech" id="95309c99-6b8e-4711-8453-afbaef6b70c6" keyPath="$USER_HOME$/.ssh/id_ed25519" port="10022" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="bastion.k8s.stage.elinvar.tech" id="95309c99-6b8e-4711-8453-afbaef6b70c6" port="10022" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
