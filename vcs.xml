@@ -178,6 +178,14 @@
           <option name="url" value="git@github.com:vaadin/base-starter-spring-gradle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:appreciated/vaadin-app-layout.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:FlowingCode/AppLayoutAddon.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/deal-board" />
