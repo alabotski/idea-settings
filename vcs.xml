@@ -186,6 +186,10 @@
           <option name="url" value="git@github.com:FlowingCode/AppLayoutAddon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:vaadin/skeleton-starter-flow-spring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/deal-board" />
