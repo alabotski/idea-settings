@@ -198,9 +198,13 @@
           <option name="url" value="git@github.com:rednavis/dealboard-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:vaadin/vaadin-oauth-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/deal-board" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/vaadin" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
