@@ -1,22 +1,23 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="DealBoardApplication" type="AUTO_DETECTED" />
       <mapping pattern="ChangeType" type="AUTO_DETECTED" />
       <mapping pattern="IdentityDocumentType" type="AUTO_DETECTED" />
       <mapping pattern="Main" type="JAVA" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern=".java-version" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
-      <mapping ext="compose" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="compose" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping pattern=".dockerignore" approved="true" type="DockerIgnore file" />
     </extensionMap>
   </component>
 </application>
